@@ -4,8 +4,6 @@ I'm a 13 year old TypeScript (and soon to be Swift) developer.
 
 Discord: [`tg.t`](https://discord.com/users/1053443057451794585)
 
-Fediverse: [@tgt@fedi.servantsofallah.cc](https://fedi.servantsofallah.cc/@tgt)
-
 Website: https://incognitotgt.me
 
 ### Languages
