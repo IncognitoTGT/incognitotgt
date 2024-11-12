@@ -1,6 +1,4 @@
-## hello!
-
-I'm a 14 year old TypeScript and (sorta) Swift developer.
+I'm a 14 year old TypeScript and Swift developer.
 
 Discord: [`tg.t`](https://discord.com/users/1053443057451794585)
 
